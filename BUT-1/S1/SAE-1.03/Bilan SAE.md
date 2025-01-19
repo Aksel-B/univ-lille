@@ -24,7 +24,7 @@ Par la suite, j’ai élaboré une notice utilisateur en anglais. Ce document ex
 - Document ou lien vers la preuve : *[Tp libre](https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/tp-libre.pdf)*  
 
 ### Livrables différents du domaine de l’informatique :  
-- Document ou lien vers la ou les preuves : *[user notice](https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/user-notice.pdf)*  
+- Document ou lien vers la ou les preuves : *[User notice](https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/user-notice.pdf)*  
 
 ### Savoir-être requis :  
 - **Autonomie**, pour comprendre et exécuter le TP en anglais.  
