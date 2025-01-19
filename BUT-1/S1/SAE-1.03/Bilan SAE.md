@@ -3,7 +3,7 @@
 ## 3. Présentation du projet  
 
 ### Visuel attractif  
-!()[image.png]
+![](image.png)
 
 ### Résumé du projet ou objectif principal  
 L’objectif de ce projet était de :  
@@ -21,10 +21,10 @@ Par la suite, j’ai élaboré une notice utilisateur en anglais. Ce document ex
 - Approfondir les concepts de base de la virtualisation et leur application.  
 
 ### Livrables liés à l’informatique :  
-- Document ou lien vers la preuve : *(https://github.com/Aksel-B/univ-lille/)[https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/tp-libre.pdf]*  
+- Document ou lien vers la preuve : *[Tp libre](https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/tp-libre.pdf)*  
 
 ### Livrables différents du domaine de l’informatique :  
-- Document ou lien vers la ou les preuves : *(https://github.com/Aksel-B/univ-lille/)[https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/user-notice.pdf]*  
+- Document ou lien vers la ou les preuves : *[user notice](https://github.com/Aksel-B/univ-lille/BUT-1/S1/SAE-1.03/user-notice.pdf)*  
 
 ### Savoir-être requis :  
 - **Autonomie**, pour comprendre et exécuter le TP en anglais.  
