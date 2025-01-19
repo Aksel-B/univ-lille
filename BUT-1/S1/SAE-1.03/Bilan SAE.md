@@ -1,6 +1,6 @@
 # Titre du projet : SAÉ 1.03 : Installation d'un poste  
 
-## 3. Présentation du projet  
+## 1. Présentation du projet  
 
 ### Visuel attractif  
 ![](image.png)
@@ -36,7 +36,7 @@ Par la suite, j’ai élaboré une notice utilisateur en anglais. Ce document ex
 
 ---
 
-## 4. Mon Bilan Personnel  
+## 2. Mon Bilan Personnel  
 
 ### Mes points forts :  
 - J’ai rapidement appris à configurer une VM en suivant un TP technique en anglais.  
