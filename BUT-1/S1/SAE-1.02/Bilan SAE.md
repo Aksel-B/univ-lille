@@ -28,11 +28,6 @@ Dans un premier temps, nous avons défini une idée claire pour le logiciel, ain
 - [Code source du logiciel](https://github.com/Aksel-B/Planet-Colonizer/tree/main/src/main/Java)
 - [Documentation décrivant l’architecture et les fonctionnalités](https://github.com/Aksel-B/Planet-Colonizer/blob/main/README.md)
 
-#### **Livrables différents du domaine de l’informatique :**
-
-- Description textuelle du logiciel et de ses fonctionnalités.
-- Résumé des étapes de conception et des résultats obtenus.
-
 #### **Savoir-être requis :**
 
 - Créativité, pour concevoir un logiciel ludique et pédagogique.
