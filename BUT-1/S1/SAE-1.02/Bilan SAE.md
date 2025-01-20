@@ -5,7 +5,7 @@
 ### **1. Présentation du projet**
 
 #### **Visuel attractif**  
-![](image.webpt)
+![](image.webp)
 #### **Résumé du projet ou objectif principal**
 
 L’objectif de ce projet était de :
